@@ -1,0 +1,32 @@
+header{ height: 500px; ;/*дети в подвале*/
+    background-color: rgb(4, 21, 38);
+ color:rgb(212, 212, 226);
+text-align: center;
+margin: 0%;
+padding: 0%;
+ font-size: 35px;
+ background-image: url(https://www.barentsportal.com/barentsportal/images/stories/barentsportal/red-listed_species/Gray_wolf-Canis_lupus.jpg);
+
+ background-size: cover;
+}
+  main   {
+    font-size: 30px;
+         }
+footer{
+    background-color: rgb(255, 0, 0);
+    font-size: 100px;
+    text-align: center;
+    padding-top: 20px;
+}
+.social img{
+  width: 100px;
+  padding-left: 10 px;
+}
+
+
+.social{ 
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
